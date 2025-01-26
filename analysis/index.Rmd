@@ -16,5 +16,3 @@ I have created this webpage solely for my German language preparation—to compl
 ## **_Chapters_**
 
 [**_1_. Perfect Tense**](perfect_tense.html)
-
-
