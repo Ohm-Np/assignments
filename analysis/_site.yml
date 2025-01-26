@@ -1,7 +1,7 @@
-name: "assignments"
+name: "German Learning Notes"
 output_dir: ../docs
 navbar:
-  title: "assignments"
+  title: "Assignments"
   left:
   - text: Home
     href: index.html
@@ -9,9 +9,13 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fab fa-github fa-lg
+    href: https://github.com/Ohm-Np/assignments
+
 output:
   workflowr::wflow_html:
     toc: yes
     toc_float: yes
-    theme: cosmo
+    theme: united
     highlight: textmate
