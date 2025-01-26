@@ -1,5 +1,6 @@
 ---
-title: "Home"
+title: "German Learning Notes"
+author: "**Om Prakash Bhandari**"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -7,12 +8,13 @@ output:
 editor_options:
   chunk_output_type: console
 ---
-# Introduction
 
-Welcome to my project!
+<style> p { text-align: justify; } </style>
 
-Here is some analysis:
+I have created this webpage solely for my German language preparation—to complete my assignments, practice questions, and take notes on important rules and concepts. Follow along the chapters!
 
-```{r}
-summary(cars)
-```
+## **_Chapters_**
+
+[**_1_. Perfect Tense**](perfect_tense.html)
+
+
