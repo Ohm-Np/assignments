@@ -7,5 +7,12 @@ output:
 editor_options:
   chunk_output_type: console
 ---
+# Introduction
 
-Welcome to my research website.
+Welcome to my project!
+
+Here is some analysis:
+
+```{r}
+summary(cars)
+```
