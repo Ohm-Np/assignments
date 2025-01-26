@@ -1,8 +1,248 @@
 ---
-title: "Perfect Tense (Assigment I)"
+title: "Perfect Tense"
 date: 2025-01-26
 output: html_document
 ---
 
 <style> p { text-align: justify; } </style>
+
+## Trennbare / Nicht Trennbare Verben
+
+When forming the Perfekt tense (present perfect) in German, **trennbare** Verben (separable verbs) and **nicht trennbare** Verben (non-separable verbs) follow slightly different rules. Here’s how it works:
+
+### Trennbare Verben
+
+- The prefix remains separate and attaches to the past participle.
+- The past participle is formed by adding -ge- between the prefix and the main verb stem.
+- Example formula: Prefix + **ge** + verb stem + **-t**/**en**
+
+*Examples:*
+
+1. anrufen (to call)
+- Perfekt: Ich habe meine Mutter angerufen. (*I called my mother.*)
+
+2. aufstehen (to get up)
+- Perfekt: Ich bin früh aufgestanden. (*I got up early.*)
+
+3. mitkommen (to come along)
+- Perfekt: Er ist mitgekommen. (*He came along.*)
+
+### Nicht Trennbare Verben
+
+- The prefix stays attached to the verb; there is no "ge-" added.
+- Example formula: Prefix + verb stem + **-t**/**en**
+
+*Examples:*
+
+1. verstehen (to understand)
+- Perfekt: Ich habe dich nicht verstanden. (*I didn’t understand you.*)
+
+2. besuchen (to visit)
+- Perfekt: Wir haben unsere Großeltern besucht. (*We visited our grandparents.*)
+
+3. zerstören (to destroy)
+- Perfekt: Der Sturm hat das Haus zerstört. (*The storm destroyed the house.*)
+
+### Key Differences
+
+|Feature|Trennbare Verben|Nicht Trennbare Verben|
+|-------|----------------|----------------------|
+|Prefix position|Separated and appears before the participle|Stays attached to the main verb|
+|"ge-" in participle|Yes, between prefix and verb stem|No "ge-" added|
+|Example Verb|anrufen → angerufen|verstehen → verstanden|
+
+#### Prefixes
+
+|Trennbar|Nicht Trennbar|
+|--------|--------------|
+|an, aus, ab, los, auf, zu, weg, zurück, vor, nach, mit, fort, her, hin, fern, ein, weiter|be, ge, hinter, ent, emp, er, miss, ver, zer|
+
+## -t/-en rules
+
+In German Perfekt tense, whether a verb forms its past participle with -t or -en depends on whether it is a weak verb, strong verb, or mixed verb. Here's a breakdown:
+
+### 1. Weak Verbs (Regular Verbs)
+
+- Weak verbs follow a regular pattern when forming their past participle: <br />
+**ge-** + verb stem + **-t**
+
+*Examples:*
+
+- machen → gemacht (to do/make → made/done)
+- spielen → gespielt (to play → played)
+- arbeiten → gearbeitet (to work → worked)
+
+*Key Points:*
+
+- These verbs usually take -t at the end.
+- If the verb stem ends in -d, -t, or a consonant cluster, an -e- is added before -t for pronunciation: <br />
+arbeiten → gearbeitet <br />
+warten → gewartet.
+
+### 2. Strong Verbs (Irregular Verbs)
+
+- Strong verbs often change their stem vowel and take -en at the end. <br />
+**ge-** + (changed stem) + **-en**
+
+*Examples:*
+
+- sehen → gesehen (to see → seen)
+- gehen → gegangen (to go → gone)
+- schreiben → geschrieben (to write → written)
+
+*Key Points:*
+
+- These verbs don't follow a regular pattern and require memorization.
+- No extra -e is added, even if the verb stem ends in a consonant.
+
+### 3. Mixed Verbs
+
+- Mixed verbs combine features of weak and strong verbs:
+  - They take **-t** like weak verbs.
+  - They change their stem vowel like strong verbs.
+  
+*Examples:*
+
+- bringen → gebracht (to bring → brought)
+- denken → gedacht (to think → thought)
+- kennen → gekannt (to know → known)
+
+#### General Rule of Thumb
+
+1. **-t** → Use this for most regular verbs (weak verbs).
+- Example: Ich habe gelernt. (*I learned.*)
+
+2. **-en** → Use this for irregular verbs (strong verbs).
+- Example: Ich habe gesprochen. (*I spoke.*)
+
+3. Memorize mixed verbs, as they don't fit neatly into the other two categories.
+- Example: Ich habe gebracht. (*I brought.*)
+
+### Summary Table
+
+|Type of Verb|Weak Verbs (regular)|Strong Verbs (irregular)|
+|------------|--------------------|------------------------|
+|Trennbare Verben|Prefix + **ge-** + verb stem + **-t**|Prefix + **ge-** + changed verb stem + **-en**|
+|Nicht Trennbare Verben|Prefix + verb stem + **-t** (no "ge-")|Prefix + changed verb stem + **-en** (no "ge-")|
+
+
+## List of Weak Verbs
+
+- **ge-** + verb stem + **-t** (or **-et** if the stem ends in **-d/-t**).
+
+| Infinitiv | Präsens (er/sie/es) | Perfekt (Partizip II) | Example Sentence                           |
+|-----------|---------------------|-----------------------|--------------------------------------------|
+| machen    | macht               | gemacht               | Er hat die Hausaufgaben gemacht. (*did*)   |
+| lernen    | lernt               | gelernt               | Sie hat viel gelernt. (*learned*)          |
+| arbeiten  | arbeitet            | gearbeitet            | Er hat gestern gearbeitet. (*worked*)      |
+| wohnen    | wohnt               | gewohnt               | Ich habe in Berlin gewohnt. (*lived*)      |
+| kaufen    | kauft               | gekauft               | Wir haben ein Auto gekauft. (*bought*)     |
+| fragen    | fragt               | gefragt               | Sie hat eine Frage gefragt. (*asked*)      |
+| spielen   | spielt              | gespielt              | Wir haben Fußball gespielt. (*played*)     |
+| warten    | wartet              | gewartet              | Er hat auf den Bus gewartet. (*waited*)    |
+| kochen    | kocht               | gekocht               | Ich habe das Abendessen gekocht. (*cooked*)|
+| reden     | redet               | geredet               | Sie hat mit ihm geredet. (*talked*/*spoke*)|
+
+## List of strong verbs
+
+- **ge-** + stem change (if applicable) + **-en**.
+
+| Infinitiv | Präsens (er/sie/es) | Perfekt (Partizip II) | Example Sentence                              |
+|-----------|---------------------|-----------------------|-----------------------------------------------|
+| sehen     | sieht               | gesehen               | Ich habe den Film gesehen. (*saw*/*seen*)     |
+| gehen     | geht                | gegangen              | Wir sind nach Hause gegangen. (*went*)        |
+| lesen     | liest               | gelesen               | Er hat das Buch gelesen. (*read*)             |
+| schreiben | schreibt            | geschrieben           | Sie hat einen Brief geschrieben. (*wrote*)    |
+| sprechen  | spricht             | gesprochen            | Wir haben Deutsch gesprochen. (*spoke*)       |
+| essen     | isst                | gegessen              | Er hat einen Apfel gegessen. (*ate*/*eaten*)  |
+| trinken   | trinkt              | getrunken             | Ich habe Wasser getrunken. (*drank*/*drunk*)  |
+| fahren    | fährt               | gefahren              | Sie ist nach Berlin gefahren. (*drove*/*gone*)|
+| nehmen    | nimmt               | genommen              | Er hat das Buch genommen. (*took*/*taken*)    |
+| finden    | findet              | gefunden              | Wir haben den Schlüssel gefunden. (*found*)   |
+
+
+## Assignments
+
+### I 
+
+*Ergänzen Sie: **ge** oder **-***
+
+|verbs|perfekt form|
+|-----|------------|
+|ab_stellt|abgestellt|
+|be_stellt|bestellt|
+|auf_standen|aufgestanden|
+|ver_standen|ver_standen|
+|an_kommen|angekommen|
+|be_kommen|bekommen|
+|auf_brochen|aufgebrochen|
+|zer_brochen|zerbrochen|
+|auf_hört|aufgehört|
+|zu_hört|zugehört|
+|an_fangen|angefangen|
+|be_gonnen|begonnen|
+|an_macht|angemacht|
+|aus_macht|ausgemacht|
+|ein_packt|eingepackt|
+|ent_schieden|entschieden|
+|ein_stiegen|eingestiegen|
+|ab_fahren|abgefahren|
+|weg_fahren|weggefahren|
+|ein_schlafen|eingeschlafen|
+|weiter_fahren|weitergefahren|
+|auf_wacht|aufgewacht|
+|auf_macht|aufgemacht|
+|zu_macht|zugemacht|
+|ab_schlossen|abgeschlossen|
+|aus_stiegen|ausgestiegen|
+|um_stiegen|umgestiegen|
+|be_malt|bemalt|
+|an_strichen|angestrichen|
+|ver_kauft|verkauft|
+|ver_dient|verdient|
+|ver_gessen|vergessen|
+|auf_geräumt|aufgeräumt|
+|fern_sehen|ferngesehen|
+|er_zählt|erzählt|
+|nach_sprochen|nachgesprochen|
+|weiter_sprochen|weitergesprochen|
+|weg_laufen|weggelaufen|
+|weg_rannt|wegrannt|
+|weiter_laufen|weitergelaufen|
+|ab_bogen|abgebogen|
+|weg_flogen|weggeflogen|
+
+
+### II
+
+*Ein Traum. Schreiben Sie die Sätze im Perfekt.*
+
+- Sie wacht auf.
+  - Sie ist aufgewacht.
+  
+- Aber sie bleibt noch ein bisschen im Bett.
+  - Aber sie ist noch ein bisschen im Bett geblieben.
+  
+- Dann steht sie auf.
+  - Dann ist sie aufgestanden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
