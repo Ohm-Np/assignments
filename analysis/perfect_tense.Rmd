@@ -225,8 +225,24 @@ warten → gewartet.
   
 - Dann steht sie auf.
   - Dann ist sie aufgestanden.
+  
+- Ihr Taxi kommt.
+  - Ihr Taxi ist gekommen.
 
-
+- Sie steigt ins Taxi.
+  - Sie ist ins Taxi eingestiegen.
+  
+- Das Taxi fährt ab.
+  - Das Taxi ist abgefahren.
+  
+- Das Taxi biegt an der Ampel ab.
+  - Das Taxi ist an der Ampel abgebogen.
+  
+- Sie kommt am Bahnhof an.
+  - Sie ist am Bahnhof angekommen.
+  
+- Sie steigt in den Zug.
+  - Sie ist in den Zug eingestiegen.
 
 
 
