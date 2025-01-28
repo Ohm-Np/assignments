@@ -217,48 +217,87 @@ warten → gewartet.
 
 *Ein Traum. Schreiben Sie die Sätze im Perfekt.*
 
-- Sie wacht auf.
-  - Sie ist aufgewacht.
+| S.No. | Präsens                                      | Perfekt                                      |
+|-------|----------------------------------------------|----------------------------------------------|
+| (a)   | Sie wacht auf.                               | Sie ist aufgewacht.                          |
+| (b)   | Aber sie bleibt noch ein bisschen im Bett.   | Aber sie ist noch ein bisschen im Bett geblieben. |
+| (c)   | Dann steht sie auf.                          | Dann ist sie aufgestanden.                   |
+| (d)   | Ihr Taxi kommt.                              | Ihr Taxi ist gekommen.                       |
+| (e)   | Sie steigt ins Taxi.                         | Sie ist ins Taxi eingestiegen.               |
+| (f)   | Das Taxi fährt ab.                           | Das Taxi ist abgefahren.                     |
+| (g)   | Das Taxi biegt an der Ampel ab.              | Das Taxi ist an der Ampel abgebogen.         |
+| (h)   | Sie kommt am Bahnhof an.                     | Sie ist am Bahnhof angekommen.               |
+| (i)   | Sie steigt in den Zug.                       | Sie ist in den Zug eingestiegen.             |
+| (j)   | Er fährt nicht ab.                           | Er ist nicht abgefahren.                     |
+| (k)   | Lange passiert nichts.                       | Lange ist nichts passiert.                   |
+| (l)   | Sie schläft ein.                             | Sie ist eingeschlafen.                       |
+| (m)   | Der Zug fährt ab.                            | Der Zug ist abgefahren.                      |
+| (n)   | Sie wacht auf.                               | Sie ist aufgewacht.                          |
+| (o)   | Sie steigt aus.                              | Sie ist ausgestiegen.                        |
+| (p)   | Sie geht durch eine Stadt.                   | Sie ist durch eine Stadt gegangen.          |
+| (q)   | Sie läuft zu einem Schwimmbad.               | Sie ist zu einem Schwimmbad gelaufen.        |
+| (r)   | Da schwimmt sie.                              | Da ist sie geschwommen.                      |
+| (s)   | Dann springt sie über einen Zaun.            | Dann ist sie über einen Zaun gesprungen.     |
+| (t)   | Danach rennt sie durch einen Wald.           | Danach ist sie durch einen Wald gerannt.     |
+| (u)   | Später reitet sie zu einem Fluss.            | Später ist sie zu einem Fluss geritten.      |
+| (v)   | Dann segelt sie in einem Boot.               | Dann ist sie in einem Boot gesegelt.         |
+| (w)   | Zum Schluss kommt sie zu einem Flughafen.    | Zum Schluss ist sie zu einem Flughafen gekommen. |
+| (x)   | Da steigt sie in ein Flugzeug.               | Da ist sie in ein Flugzeug eingestiegen.     |
+| (y)   | Das Flugzeug fliegt weg.                     | Das Flugzeug ist weggeflogen.                |
+| (z)   | Sie schläft ein.                             | Sie ist eingeschlafen.                       |
+
+
+### III
+
+*Bilden Sie Sätze im Perfekt.*
+
+**(a)** Schau mal. Jetzt ist es sieben und Herr Fritsch geht aus dem Haus.
+(am Montag - er - um acht - aus dem Haus gehen)
   
-- Aber sie bleibt noch ein bisschen im Bett.
-  - Aber sie ist noch ein bisschen im Bett geblieben.
-  
-- Dann steht sie auf.
-  - Dann ist sie aufgestanden.
-  
-- Ihr Taxi kommt.
-  - Ihr Taxi ist gekommen.
+  - Am Montag ist er um acht aus dem Haus gegangen.
 
-- Sie steigt ins Taxi.
-  - Sie ist ins Taxi eingestiegen.
-  
-- Das Taxi fährt ab.
-  - Das Taxi ist abgefahren.
-  
-- Das Taxi biegt an der Ampel ab.
-  - Das Taxi ist an der Ampel abgebogen.
-  
-- Sie kommt am Bahnhof an.
-  - Sie ist am Bahnhof angekommen.
-  
-- Sie steigt in den Zug.
-  - Sie ist in den Zug eingestiegen.
+**(b)** Schau mal. Jetzt ist es halb acht und Herr Hackl steht auf.
+(am Samstag - er - um Viertel nach acht - aufstehen)
 
+  - Am Samstag ist er um Viertel nach acht aufgestanden.
 
+**(c)** Schau mal. Jetzt ist es acht und Herr Becker bringt die Kinder zur Schule.
+(am Donnerstag - seine Frau - die Kinder - um Viertel vor acht - zur Schule bringen).
 
+  - Am Donnerstag hat seine Frau die Kinder um Viertel vor acht zur Schule gebracht.
 
+**(d)** Schau mal. Jetzt ist es halb eins. Gerade stehen Herr Schmidt und Herr Pensler auf.
+(am Freitag - sie - erst um halb zwei - aufstehen)
 
+  - Am Freitag sind sie erst um halb zwei aufgestanden.
 
+**(e)** Schau mal. Jetzt ist es eins und Frau Meyer schreibt auf der Schreibmaschine.
+(am Dienstag - sie - um sieben Uhr abends - auf der Schreibmaschine schreiben)
 
+  - Am Dienstag hat sie um sieben Uhr abends auf der Schreibmaschine geschrieben.
 
+**(f)** Schau mal. Jetzt ist es zwei und Frau Beckmann streicht eine Wand in der Küche an.
+(am Mittwoch - ihr Mann - um zwei - eine Wand im Wohnzimmer - anstreichen)
 
+  - Am Mittwoch hat ihr Mann um zwei eine Wand im Wohnzimmer angestrichen.
 
+**(g)** Schau mal, jetzt ist es halb fünf und Frau Sundermann macht die Fenster im Schlafzimmer zu.
+(am Samstag - ihr Mann - sie - um halb fünf - zumachen)
 
+  - Am Samstag hat ihr Mann sie um halb fünf zugemacht.
 
+**(h)** Schau mal. Jetzt ist es fünf und Herr Hansen bügelt gerade.
+(gestern - seine Frau - um fünf - bügeln)
 
+  - Gestern hat seine Frau um fünf gebügelt.
 
+**(i)** Schau mal. Jetzt ist es halb sechs und Herr Humbold putzt seine Fenster.
+(am Montag - seine Freundin - um halb sechs - seine Fenster putzen)
 
+  - Am Montag hat seine Freundin um halb sechs seine Fenster geputzt.
 
+**(j)** Schau mal. Jetzt ist es sechs und Frau Rheinländer räumt die Garage auf.
+(am Donnerstag - ihr Mann - sie - um neun - aufräumen)
 
-
+  - Am Donnerstag hat ihr Mann sie um neun aufgeräumt.
 
